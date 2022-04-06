@@ -7,7 +7,7 @@ A mod that adds some collectible items from Wintermute to Survival Mode.
 Everything shown in the screenshot, plus a few more. Almost all story mode items have been included, except for keys and notes.
 Even currently unimplemented items such as the Fireaxe and Shovel have been added.
 
-A list of `GEAR_` names can be found on the [wiki](https://github.com/ds5678/TLD_StoryModeCollectibles/wiki)
+A list of `GEAR_` names can be found on the [wiki](https://github.com/Atlas-Lumi/TLD_StoryModeCollectibles/wiki)
 
 # Where to find them?
 
