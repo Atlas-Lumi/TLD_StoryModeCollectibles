@@ -3,6 +3,9 @@ A mod that adds some collectible items from Wintermute to Survival Mode.
 
 # ![image](https://user-images.githubusercontent.com/102776369/162088567-3a22ec1d-741d-450a-af83-cb9377bd7980.png)
 
+# Update 2.0
+Removed the necklace, fuse and gold nugget.
+
 # What items are added?
 Everything shown in the screenshot, plus a few more. Almost all story mode items have been included, except for keys and notes.
 Even currently unimplemented items such as the Fireaxe and Shovel have been added.
